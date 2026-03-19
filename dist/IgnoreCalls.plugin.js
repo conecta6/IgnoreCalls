@@ -2,10 +2,10 @@
  * @name IgnoreCalls
  * @version 1.0.0
  * @description Silently block incoming calls from specific Discord users without affecting anyone else.
- * @author mayc
- * @authorLink https://github.com/mayc
- * @source https://github.com/mayc/IgnoreCalls
- * @updateUrl https://raw.githubusercontent.com/mayc/IgnoreCalls/main/dist/IgnoreCalls.plugin.js
+ * @author conecta6
+ * @authorLink https://github.com/conecta6
+ * @source https://github.com/conecta6/IgnoreCalls
+ * @updateUrl https://raw.githubusercontent.com/conecta6/IgnoreCalls/main/dist/IgnoreCalls.plugin.js
  */
 
 'use strict';
