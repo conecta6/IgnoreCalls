@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(grep -n \"//.*[áéíóúñÁÉÍÓÚÑ]\" c:/Users/migue/Desktop/codigo/discord/src/core/CallInterceptor.js c:/Users/migue/Desktop/codigo/discord/src/core/ModuleFinder.js c:/Users/migue/Desktop/codigo/discord/src/core/IgnoreList.js c:/Users/migue/Desktop/codigo/discord/src/core/ActionTypeDetector.js c:/Users/migue/Desktop/codigo/discord/src/core/HealthMonitor.js c:/Users/migue/Desktop/codigo/discord/src/core/DebugLog.js c:/Users/migue/Desktop/codigo/discord/src/utils/Logger.js c:/Users/migue/Desktop/codigo/discord/src/ui/ContextMenuPatch.js c:/Users/migue/Desktop/codigo/discord/src/ui/SettingsPanel.js)",
+      "Bash(grep -rn \"//.*[áéíóúñÁÉÍÓÚÑ]\\\\|// .*\\\\b\\\\\\(que\\\\|del\\\\|los\\\\|las\\\\|una\\\\|por\\\\|para\\\\|con\\\\|sin\\\\|mas\\\\|tambien\\\\|todo\\\\|cada\\\\|como\\\\|cuando\\\\|donde\\\\|desde\\\\|hasta\\\\|este\\\\|esta\\\\|esto\\\\|son\\\\|han\\\\|hay\\\\|fue\\\\|ser\\\\|sus\\\\\\)\\\\b\" c:/Users/migue/Desktop/codigo/discord/src/)",
+      "Bash(grep -n \"//.*[áéíóúñÁÉÍÓÚÑ]\\\\|// .*\\\\b\\\\\\(que\\\\|del\\\\|los\\\\|las\\\\|una\\\\|por\\\\|para\\\\|con\\\\|sin\\\\|mas\\\\|tambien\\\\|todo\\\\|cada\\\\|como\\\\|cuando\\\\|donde\\\\|desde\\\\|hasta\\\\|este\\\\|esta\\\\|esto\\\\|son\\\\|han\\\\|hay\\\\|fue\\\\\\)\\\\b\" c:/Users/migue/Desktop/codigo/discord/dist/IgnoreCalls.plugin.js)"
+    ]
+  }
+}

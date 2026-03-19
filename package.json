@@ -1,0 +1,14 @@
+{
+  "name": "ignore-calls",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "BetterDiscord plugin para ignorar llamadas de usuarios especificos",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c --watch"
+  },
+  "devDependencies": {
+    "rollup": "^4.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0"
+  }
+}
