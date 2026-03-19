@@ -73,13 +73,12 @@ BetterDiscord has been around since 2015 and is used by millions of people. It w
 4. Select your Discord installation when prompted
 5. Restart Discord — you should now see a **BetterDiscord** section in your settings
 
-![BetterDiscord installer screenshot showing the "Select Installation" step](assets/screenshots/bd-installer.png)
 
 ### Step 2 — Download IgnoreCalls
 
 Download the plugin file:
 
-**[⬇️ Download IgnoreCalls.plugin.js](https://github.com/yourname/IgnoreCalls/releases/latest)**
+**[⬇️ Download IgnoreCalls.plugin.js](https://github.com/conecta6/IgnoreCalls/releases/latest)**
 
 You will get a single file: `IgnoreCalls.plugin.js`
 
@@ -95,7 +94,6 @@ Then copy `IgnoreCalls.plugin.js` into that folder.
 
 > **Full path example:** `C:\Users\YourName\AppData\Roaming\BetterDiscord\plugins\IgnoreCalls.plugin.js`
 
-![Windows Explorer showing the BetterDiscord plugins folder with IgnoreCalls.plugin.js inside](assets/screenshots/plugins-folder.png)
 
 ### Step 4 — Enable the plugin in Discord
 
@@ -105,7 +103,6 @@ Then copy `IgnoreCalls.plugin.js` into that folder.
 4. Find **IgnoreCalls** in the list
 5. Toggle it **ON**
 
-![Discord settings panel showing the BetterDiscord Plugins section with IgnoreCalls toggled on](assets/screenshots/plugin-enabled.png)
 
 That's it. IgnoreCalls is now active.
 
@@ -118,7 +115,6 @@ That's it. IgnoreCalls is now active.
 1. Right-click on the user's name anywhere in Discord (friend list, server member list, DMs)
 2. Click **"Ignore calls from [username]"**
 
-![Discord right-click context menu showing the "Ignore calls from Alex" option](assets/screenshots/context-menu.png)
 
 From that point on, if that user calls you, you won't hear or see anything. The call will appear to ring on their end as normal.
 
@@ -145,7 +141,6 @@ The panel contains:
 | **Ignored Users** | A list of all users currently being ignored. Each entry shows the username and a Remove button. |
 | **Diagnostic Mode** | Toggle ON to enable a debug console log. Useful if calls are not being blocked as expected. Toggle OFF when you're done troubleshooting. |
 
-![IgnoreCalls settings panel showing a list of two ignored users and the Diagnostic Mode toggle](assets/screenshots/settings-panel.png)
 
 ---
 
@@ -254,13 +249,12 @@ BetterDiscord existe desde 2015 y lo usan millones de personas. Funciona modific
 4. Selecciona tu instalación de Discord cuando se te pida
 5. Reinicia Discord — ahora deberías ver una sección **BetterDiscord** en tus ajustes
 
-![Captura del instalador de BetterDiscord mostrando el paso "Seleccionar instalación"](assets/screenshots/bd-installer.png)
 
 ### Paso 2 — Descargar IgnoreCalls
 
 Descarga el archivo del plugin:
 
-**[⬇️ Descargar IgnoreCalls.plugin.js](https://github.com/yourname/IgnoreCalls/releases/latest)**
+**[⬇️ Descargar IgnoreCalls.plugin.js](https://github.com/conecta6/IgnoreCalls/releases/latest)**
 
 Obtendrás un único archivo: `IgnoreCalls.plugin.js`
 
@@ -276,7 +270,6 @@ Luego copia `IgnoreCalls.plugin.js` dentro de esa carpeta.
 
 > **Ruta completa de ejemplo:** `C:\Users\TuNombre\AppData\Roaming\BetterDiscord\plugins\IgnoreCalls.plugin.js`
 
-![Explorador de Windows mostrando la carpeta de plugins de BetterDiscord con el archivo IgnoreCalls.plugin.js dentro](assets/screenshots/plugins-folder.png)
 
 ### Paso 4 — Activar el plugin en Discord
 
@@ -286,7 +279,6 @@ Luego copia `IgnoreCalls.plugin.js` dentro de esa carpeta.
 4. Busca **IgnoreCalls** en la lista
 5. Actívalo con el interruptor
 
-![Panel de ajustes de Discord mostrando la sección Plugins de BetterDiscord con IgnoreCalls activado](assets/screenshots/plugin-enabled.png)
 
 Eso es todo. IgnoreCalls ya está activo.
 
@@ -299,7 +291,6 @@ Eso es todo. IgnoreCalls ya está activo.
 1. Haz click derecho sobre el nombre del usuario en cualquier lugar de Discord (lista de amigos, lista de miembros de un servidor, mensajes directos)
 2. Haz click en **"Ignorar llamadas de [nombre de usuario]"**
 
-![Menú contextual de Discord al hacer click derecho, mostrando la opción "Ignorar llamadas de Álex"](assets/screenshots/context-menu.png)
 
 A partir de ese momento, si ese usuario te llama, no escucharás ni verás nada. En el lado del que llama, la llamada parecerá estar sonando con normalidad.
 
@@ -326,7 +317,6 @@ El panel contiene:
 | **Usuarios ignorados** | Una lista con todos los usuarios que están siendo ignorados actualmente. Cada entrada muestra el nombre de usuario y un botón para eliminarlo. |
 | **Modo diagnóstico** | Actívalo para habilitar un registro de depuración en la consola. Útil si las llamadas no se están bloqueando como se esperaba. Desactívalo cuando hayas terminado de depurar. |
 
-![Panel de ajustes de IgnoreCalls mostrando una lista de dos usuarios ignorados y el interruptor del Modo diagnóstico](assets/screenshots/settings-panel.png)
 
 ---
 
